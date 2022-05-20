@@ -1,6 +1,6 @@
 ## Presence List Server
 
-- Used with react-app-presence-list.
+- Used with react-app-presence-list
 
 ## Technology
 
