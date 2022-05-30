@@ -13,4 +13,4 @@
 - git clone
 - cd react-app-presence-server
 - run npm run dev
-- to see Prisma run npx prisma studio
+- to see Prisma, run npx prisma studio
